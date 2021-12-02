@@ -1,0 +1,12 @@
+{
+    "ban_previously": true,
+    "check_names": true,
+    "access_level": "a",
+    "driver": "sqlite",
+    "credentials": {
+        "hostname": "localhost",
+        "username": "root",
+        "password": "",
+        "database": "routes"
+    }
+}

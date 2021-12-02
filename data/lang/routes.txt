@@ -1,0 +1,39 @@
+[en]
+ROUTES_ONLINE=Routes online. Time to begin: %f
+ROUTES_USAGE=Usage: route_ban "192.168.0.1" <minutes>
+ROUTES_NO_ACCESS=You do not have enough access to this command.
+ROUTES_KICK_MESSAGE=[Routes] You have been banned from this server
+ROUTES_ERROR_COULD_NOT_LOAD_SETTINGS=Error on loading settings. Reason: %s
+ROUTES_ERROR_INVALID_SETTINGS=Settings file missing or invalid: %s
+ROUTES_ERROR_LOADING_DATABASE=Error on lading database.
+ROUTES_ERROR_JSON_STRING=Invalid property "%s". Text expected.
+ROUTES_ERROR_JSON_BOOL=Invalid property "%s". Value true or false expected.
+ROUTES_ERROR_QUERY_FAILED_CONNECT=Error on connecting to database during operation [%f]. Reason: %s
+ROUTES_ERROR_QUERY_FAILED=Error on executing operation [%f]. Reason: %s
+ROUTES_ADMIN_BANNED_ROUTE=Administrator ("%s", "%s", "%s") banned route %s.
+ROUTES_ADMIN_BANNED_ROUTE_TIME=Administrator ("%s", "%s", "%s") banned route %s. It expires in %d minutes.
+ROUTES_ADDING_BAN=[Routes] Processing ban.
+ROUTES_BAN_FAILED=[Routes] Ban processing failed.
+ROUTES_BAN_SUCCESS=[Routes] Ban processed successfully.
+ROUTES_LOG_PLAYER_BANNED=Player ("%s", "%s", "%s") connected has been banned %d time(s) before
+ROUTES_LOG_BANNED=Player ("%s", "%s", "%s") banned
+
+[bp]
+ROUTES_ONLINE=Routes online. Tempo para iniciar: %f
+ROUTES_USAGE=Usage: route_ban "192.168.0.1" <minutos>
+ROUTES_NO_ACCESS=Você não tem acesso à esse comando.
+ROUTES_KICK_MESSAGE=[Routes] Você foi banido deste servidor
+ROUTES_ERROR_COULD_NOT_LOAD_SETTINGS=Erro ao carregar configurações. Motivo: %s
+ROUTES_ERROR_INVALID_SETTINGS=Arquivo de configuração inexistente ou inválido: %s
+ROUTES_ERROR_LOADING_DATABASE=Erro ao carregar banco de dados.
+ROUTES_ERROR_JSON_STRING=Propriedade "%s" inválida. Texto esperado.
+ROUTES_ERROR_JSON_BOOL=Propriedade "%s" inválida. Valor true ou false esperado.
+ROUTES_ERROR_QUERY_FAILED_CONNECT=Erro ao conectar ao banco de dados durante operação [%f]. Motivo: %s
+ROUTES_ERROR_QUERY_FAILED=Erro ao executar operação [%f]. Motivo: %s
+ROUTES_ADMIN_BANNED_ROUTE=Administrador ("%s", "%s", "%s") baniu a rota %s.
+ROUTES_ADMIN_BANNED_ROUTE_TIME=Administrador ("%s", "%s", "%s") baniu a rota %s. Expira em %d minutos.
+ROUTES_ADDING_BAN=[Routes] Processando banimento.
+ROUTES_BAN_FAILED=[Routes] Processamento do banimento falhou.
+ROUTES_BAN_SUCCESS=[Routes] Banimento processado com sucesso.
+ROUTES_LOG_PLAYER_BANNED=Jogador ("%s", "%s", "%s") conectado foi banido %d vez(es) antes
+ROUTES_LOG_BANNED=Jogador ("%s", "%s", "%s") banido
